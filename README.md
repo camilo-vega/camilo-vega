@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @camilo-vega
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Globant
 - 📫 How to reach me at twitter @camilovegag
 
 <!---
