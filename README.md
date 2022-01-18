@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camilo-vega
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning GraphQL, Apollo, TS & Next
 - 📫 Reach me at twitter @camilovegag
 
 <!---
